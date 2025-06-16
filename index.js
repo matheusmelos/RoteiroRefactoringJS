@@ -85,3 +85,8 @@ const calc = new ServicoCalculoFatura();
 const faturaStr = gerarFaturaStr(faturas, pecas, calc);
 console.log(faturaStr);
 
+// Comentando o HTML
+/*
+const faturaHTML = gerarFaturaHTML(faturas, pecas, calc);
+console.log(faturaHTML);
+*/
